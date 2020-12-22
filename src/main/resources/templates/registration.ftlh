@@ -45,7 +45,7 @@
                 <div class="col-sm-6">
                     <input type="tel" name="phoneNumber" required="required" pattern="[A-Za-z0-9]{1,20}" value="<#if user??>${user.phoneNumber}</#if>"
                            class="form-control"
-                           placeholder="+375*********" />
+                           placeholder="375*********" />
                 </div>
             </div>
             <div class="form-group row">
