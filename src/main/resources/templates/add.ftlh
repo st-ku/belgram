@@ -5,7 +5,7 @@
     <form action="/new" method="post" enctype="multipart/form-data">
         <div class="form-row">
             <div class="form-group col-md-6">
-                <label for="inputEmail4">Text</label>
+                <label for="textDescription">Text</label>
                 <input type="text" class="form-control" name="textDescription" placeholder="Text">
             </div>
         </div>
